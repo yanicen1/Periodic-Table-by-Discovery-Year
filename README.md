@@ -7,7 +7,7 @@ From ancient elements like Gold (Au) and Copper (Cu), known for thousands of yea
 It’s a fusion of data visualization, materials science, and storytelling — designed to engage both scientists and the general public.
 
 ### 📓 What's Inside
-This repository contains a [Jupyter Notebook](https://github.com/yanicen1/Additive-Manufacturing-Suitability-Factor/blob/4c3d5f8a8449e30a3c611a0b5377d3ccc476a5b9/AMSF.ipynb) that:
+This repository contains a [Jupyter Notebook](https://github.com/yanicen1/Periodic-Table-by-Discovery-Year/blob/main/Periodic_Table_Discovery_Year.ipynb) that:
 - Builds an interactive animated periodic table using Plotly
 - Displays the historical progression of element discoveries
 
@@ -16,3 +16,6 @@ This repository contains a [Jupyter Notebook](https://github.com/yanicen1/Additi
 - Jupyter Notebook
 - Plotly
 - Pandas
+
+### 🔗 Stay Connected
+Originally shared on LinkedIn.
