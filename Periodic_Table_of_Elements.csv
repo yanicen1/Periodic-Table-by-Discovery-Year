@@ -1,0 +1,119 @@
+Atomic_Number,Name,Symbol,Type,Discovery_Year,Column,Row
+1,Hydrogen,H,Nonmetal,Ancient,1,1
+2,Helium,He,Noble Gas,1895,18,1
+3,Lithium,Li,Alkali Metal,1817,1,2
+4,Beryllium,Be,Alkaline Earth Metal,1798,2,2
+5,Boron,B,Metalloid,Ancient,13,2
+6,Carbon,C,Nonmetal,Ancient,14,2
+7,Nitrogen,N,Nonmetal,1772,15,2
+8,Oxygen,O,Nonmetal,Ancient,16,2
+9,Fluorine,F,Halogen,1886,17,2
+10,Neon,Ne,Noble Gas,1898,18,2
+11,Sodium,Na,Alkali Metal,1807,1,3
+12,Magnesium,Mg,Alkaline Earth Metal,1755,2,3
+13,Aluminum,Al,Post-Transition Metal,1825,13,3
+14,Silicon,Si,Metalloid,1824,14,3
+15,Phosphorus,P,Nonmetal,1669,15,3
+16,Sulfur,S,Nonmetal,Ancient,16,3
+17,Chlorine,Cl,Halogen,1774,17,3
+18,Argon,Ar,Noble Gas,1894,18,3
+19,Potassium,K,Alkali Metal,1807,1,4
+20,Calcium,Ca,Alkaline Earth Metal,Ancient,2,4
+21,Scandium,Sc,Transition Metal,1879,3,4
+22,Titanium,Ti,Transition Metal,1791,4,4
+23,Vanadium,V,Transition Metal,1801,5,4
+24,Chromium,Cr,Transition Metal,1797,6,4
+25,Manganese,Mn,Transition Metal,1774,7,4
+26,Iron,Fe,Transition Metal,Ancient,8,4
+27,Cobalt,Co,Transition Metal,1735,9,4
+28,Nickel,Ni,Transition Metal,1751,10,4
+29,Copper,Cu,Transition Metal,Ancient,11,4
+30,Zinc,Zn,Transition Metal,1746,12,4
+31,Gallium,Ga,Post-Transition Metal,1875,13,4
+32,Germanium,Ge,Metalloid,1886,14,4
+33,Arsenic,As,Metalloid,1250,15,4
+34,Selenium,Se,Nonmetal,1817,16,4
+35,Bromine,Br,Halogen,1826,17,4
+36,Krypton,Kr,Noble Gas,1898,18,4
+37,Rubidium,Rb,Alkali Metal,1861,1,5
+38,Strontium,Sr,Alkaline Earth Metal,1790,2,5
+39,Yttrium,Y,Transition Metal,1794,3,5
+40,Zirconium,Zr,Transition Metal,1789,4,5
+41,Niobium,Nb,Transition Metal,1801,5,5
+42,Molybdenum,Mo,Transition Metal,1778,6,5
+43,Technetium,Tc,Transition Metal,1937,7,5
+44,Ruthenium,Ru,Transition Metal,1844,8,5
+45,Rhodium,Rh,Transition Metal,1803,9,5
+46,Palladium,Pd,Transition Metal,1803,10,5
+47,Silver,Ag,Transition Metal,Ancient,11,5
+48,Cadmium,Cd,Transition Metal,1817,12,5
+49,Indium,In,Post-Transition Metal,1863,13,5
+50,Tin,Sn,Post-Transition Metal,Ancient,14,5
+51,Antimony,Sb,Metalloid,Ancient,15,5
+52,Tellurium,Te,Metalloid,1782,16,5
+53,Iodine,I,Halogen,1811,17,5
+54,Xenon,Xe,Noble Gas,1898,18,5
+55,Cesium,Cs,Alkali Metal,1860,1,6
+56,Barium,Ba,Alkaline Earth Metal,1808,2,6
+57,Lanthanum,La,Lanthanide,1839,3,8
+58,Cerium,Ce,Lanthanide,1803,4,8
+59,Praseodymium,Pr,Lanthanide,1885,5,8
+60,Neodymium,Nd,Lanthanide,1885,6,8
+61,Promethium,Pm,Lanthanide,1945,7,8
+62,Samarium,Sm,Lanthanide,1879,8,8
+63,Europium,Eu,Lanthanide,1901,9,8
+64,Gadolinium,Gd,Lanthanide,1880,10,8
+65,Terbium,Tb,Lanthanide,1843,11,8
+66,Dysprosium,Dy,Lanthanide,1886,12,8
+67,Holmium,Ho,Lanthanide,1878,13,8
+68,Erbium,Er,Lanthanide,1842,14,8
+69,Thulium,Tm,Lanthanide,1879,15,8
+70,Ytterbium,Yb,Lanthanide,1878,16,8
+71,Lutetium,Lu,Lanthanide,1907,17,8
+72,Hafnium,Hf,Transition Metal,1923,4,6
+73,Tantalum,Ta,Transition Metal,1802,5,6
+74,Tungsten,W,Transition Metal,1783,6,6
+75,Rhenium,Re,Transition Metal,1925,7,6
+76,Osmium,Os,Transition Metal,1803,8,6
+77,Iridium,Ir,Transition Metal,1803,9,6
+78,Platinum,Pt,Transition Metal,Ancient,10,6
+79,Gold,Au,Transition Metal,Ancient,11,6
+80,Mercury,Hg,Transition Metal,Ancient,12,6
+81,Thallium,Tl,Post-Transition Metal,1861,13,6
+82,Lead,Pb,Post-Transition Metal,Ancient,14,6
+83,Bismuth,Bi,Post-Transition Metal,1753,15,6
+84,Polonium,Po,Metalloid,1898,16,6
+85,Astatine,At,Halogen,1940,17,6
+86,Radon,Rn,Noble Gas,1900,18,6
+87,Francium,Fr,Alkali Metal,1939,1,7
+88,Radium,Ra,Alkaline Earth Metal,1898,2,7
+89,Actinium,Ac,Actinide,1899,3,9
+90,Thorium,Th,Actinide,1829,4,9
+91,Protactinium,Pa,Actinide,1913,5,9
+92,Uranium,U,Actinide,1789,6,9
+93,Neptunium,Np,Actinide,1940,7,9
+94,Plutonium,Pu,Actinide,1940,8,9
+95,Americium,Am,Actinide,1944,9,9
+96,Curium,Cm,Actinide,1944,10,9
+97,Berkelium,Bk,Actinide,1949,11,9
+98,Californium,Cf,Actinide,1950,12,9
+99,Einsteinium,Es,Actinide,1952,13,9
+100,Fermium,Fm,Actinide,1952,14,9
+101,Mendelevium,Md,Actinide,1955,15,9
+102,Nobelium,No,Actinide,1958,16,9
+103,Lawrencium,Lr,Actinide,1961,17,9
+104,Rutherfordium,Rf,Transition Metal,1969,4,7
+105,Dubnium,Db,Transition Metal,1967,5,7
+106,Seaborgium,Sg,Transition Metal,1974,6,7
+107,Bohrium,Bh,Transition Metal,1981,7,7
+108,Hassium,Hs,Transition Metal,1984,8,7
+109,Meitnerium,Mt,Transition Metal,1982,9,7
+110,Darmstadtium,Ds,Transition Metal,1994,10,7
+111,Roentgenium,Rg,Transition Metal,1994,11,7
+112,Copernicium,Cn,Transition Metal,1996,12,7
+113,Nihonium,Nh,Post-Transition Metal,2004,13,7
+114,Flerovium,Fl,Post-Transition Metal,1998,14,7
+115,Moscovium,Mc,Post-Transition Metal,2003,15,7
+116,Livermorium,Lv,Post-Transition Metal,2000,16,7
+117,Tennessine,Ts,Halogen,2010,17,7
+118,Oganesson,Og,Noble Gas,2002,18,7
