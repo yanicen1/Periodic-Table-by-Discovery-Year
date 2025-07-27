@@ -19,3 +19,9 @@ This repository contains a [Jupyter Notebook](https://github.com/yanicen1/Period
 
 ### 🔗 Stay Connected
 Originally shared on LinkedIn.
+
+### Useful links:
+https://github.com/janosh/pymatviz/tree/main
+https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee
+
+
