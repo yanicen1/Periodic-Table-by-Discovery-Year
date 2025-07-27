@@ -18,10 +18,12 @@ This repository contains a [Jupyter Notebook](https://github.com/yanicen1/Period
 - Pandas
 
 ### 🔗 Stay Connected
-Originally shared on LinkedIn.
+Originally shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7354822145153110016/).
 
 ### Useful links:
+
 https://github.com/janosh/pymatviz/tree/main
+
 https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee
 
 
